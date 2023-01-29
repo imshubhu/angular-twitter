@@ -10,7 +10,7 @@ export const AppRoutes: Routes = [
   },
   {
     path: '',
-    redirectTo: '/user/71ab267fc37caa55b9d8de7280daee18',
+    redirectTo: '/user/e3bb574f1fb9ffc34fd6915842dd462a',
     pathMatch: 'full'
   }
 ];
