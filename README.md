@@ -1,6 +1,3 @@
-## Live Example
-  [To see a live example of this demo, please follow this link](https://mcknasty.github.io/twitter-angular-clone.github.io). To add a new tweet click the tweet button at the top of the tweet feed.  To see another users feed click on any of the handles in the tweets
-
 ## Working with this project
 Install angular cli with the following command:
 ```
@@ -9,10 +6,9 @@ Install angular cli with the following command:
 
 Clone the project to a convenient directory path then change into the repository's directories
 ```
-  git clone git@github.com:mcknasty/twitter-angular-clone.github.io.git
-  cd twitter-angular-clone.github.io
+  git clone https://github.com/imshubhu/angular-twitter.git
+  cd angular-twitter
 ```
-
 Install the node module dependencies
 ```
 npm install
